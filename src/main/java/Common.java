@@ -1,5 +1,5 @@
 public class Common {
     public static void main(String [] args) {
-        System.out.println("Common hello");
+        System.out.println("Common hello new");
     }
 }
